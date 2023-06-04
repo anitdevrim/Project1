@@ -1,6 +1,6 @@
 # COM2044 // PROJECT-1
-# Anıt Devrim Akdeniz
-# 19291078
+# Developed by Anıt Devrim Akdeniz
+
 
 
 
